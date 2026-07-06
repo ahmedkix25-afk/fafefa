@@ -1,0 +1,6 @@
+{
+  "name": "مُحسّن جودة الصور المجاني مع لوحة تحكم الإعلانات",
+  "description": "منصة مجانية لرفع جودة الصور وتحسين دقتها فائقة الجودة مع مساحات إعلانية مدمجة للربح ولوحة تحكم لإحصائيات الأرباح وإعدادات أدسينس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
